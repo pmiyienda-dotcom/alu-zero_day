@@ -1,1 +1,1 @@
-touch up_to_date
+This project is kept up to date.
